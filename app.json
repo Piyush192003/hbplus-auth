@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "hbplus-auth",
+    "slug": "hbplus-auth",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArch": false,
+    "scheme": "hbplusauth",
+    "web": {}
+  }
+}

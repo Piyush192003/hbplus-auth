@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Env
+.env
+.env.*
+
+# Build outputs
+dist/
+build/
+.expo/
+*.log
+.web-build/
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Firebase secrets (never commit)
+serviceAccountKey.json
